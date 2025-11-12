@@ -35,13 +35,8 @@ Send an email to: **hmaqib91@gmail.com**
 
 If you continue to experience issues:
 
-- **Email**: support@rideshareapp.com
-- **Phone**: +92-XXX-XXXXXXX (Support Hours: 9 AM - 6 PM, Monday to Friday)
+- **Email**: hmaqib91@gmail.com
+- **Phone**: +92-309-9710755 (Support Hours: 9 AM - 6 PM, Monday to Friday)
 - **In-App**: Settings > Contact Support
 
 ---
-
-**Last Updated**: [Current Date]
-
-**App Version**: [Your App Version]
-
